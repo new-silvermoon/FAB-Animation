@@ -2,6 +2,9 @@
 
 The main objective over here is to apply an animation effect on to a floating action button (FAB), which when clicked expands into a layout.
 
+The animation is a replica of the image as displayed in the below url: 
+https://stackoverflow.com/questions/29846458/how-to-animate-floating-action-button-using-android-activity-transition
+
 Components and Implementation of the app:
 
 1) The motion that is required to be performed by the FAB, is in semi circular or arc fashion. This can be achieved by applying the Bézier curve function.
